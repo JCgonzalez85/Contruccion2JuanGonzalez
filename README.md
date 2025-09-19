@@ -1,6 +1,6 @@
 # Contruccion2JuanGonzalez
 
-##Integrantes
+## Integrantes
 ### Juan Carlo Gozalez Alzate 
 
 
